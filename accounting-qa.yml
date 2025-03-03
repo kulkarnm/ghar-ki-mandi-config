@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to accounting related QA docker APIs "
+  contactDetails:
+    name: "Mandar Kulkarni - Developer"
+    email: "kulkarnm@gmail.com"
