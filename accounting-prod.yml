@@ -1,0 +1,8 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to accounting related Prod docker APIs "
+  contactDetails:
+    name: "Mandar Kulkarni - Developer"
+    email: "kulkarnm@gmail.com"
